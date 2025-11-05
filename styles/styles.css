@@ -36,12 +36,12 @@ main img {
     width: 150px;
     height: auto;
     border: 1px solid rgb(0 0 0/0.2);
-    padding: auto;
+    padding: 1rem;
     box-shadow: 0 0 35px #333;
 }
 
 p {
-    padding: 1rem;
+    padding: 0;
 }
 
 footer {
