@@ -15,13 +15,14 @@
 
 header {
     background-color: var(--primary-color);
-    color: var(--accent1-color);
-    opacity: 2;
+    color: black;
+    opacity: 0.9;
 }
 
 body {
     font-family: var(--body-font);
     color: var(--accent1-color);
+
 }
 
 header,
@@ -58,7 +59,7 @@ footer {
 h2 {
     background-color: var(--accent1-color);
     text-align: center;
-    opacity: 1.5;
+    opacity: 0.9;
     width: 100%;
 }
 
