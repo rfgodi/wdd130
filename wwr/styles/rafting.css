@@ -16,6 +16,7 @@
 header {
     background-color: var(--primary-color);
     color: var(--accent1-color);
+    opacity: 2;
 }
 
 body {
